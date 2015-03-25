@@ -7,9 +7,9 @@ io.m and segmentation.m together does the segmentation of the given image and el
 =========================================================
 ##This code in particular stacks up the following features: ##
 <ol>
-<li>*Feature 1: Mean of eccentricities of ellipses
-<li>*Feature 2: variances of the eccentricity
-<li>*Feature 3: kurtosis of the eccentricity
-<li>*Feature 4: skewness of eccentricity
-<li>*Feature 5: Formation of closed chain 
+<li>Feature 1: Mean of eccentricities of ellipses
+<li>Feature 2: variances of the eccentricity
+<li>Feature 3: kurtosis of the eccentricity
+<li>Feature 4: skewness of eccentricity
+<li>Feature 5: Formation of closed chain 
 </lo>
